@@ -1,9 +1,7 @@
-body {
-# Riley VanMeter
+body {# Riley VanMeter
 ### PhD Student in Romance Linguistics
 ### UC Berkeley
-  color: #00008;
-}
+  color: #00008;}
 
 
 ## Features
